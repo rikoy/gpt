@@ -1,5 +1,13 @@
 # OpenAI API Integration
 
+**Prerequisites**
+
+Before we start, you will need to install following things:
+
+* Node.js
+* NPM (Node Package Manager)
+* An OpenAI API key
+
 **Step By Step**
 
 1. Install dependencies with `npm install`.
