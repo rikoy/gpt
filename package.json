@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "gpt",
+  "version": "1.0.0",
+  "description": "kecerdasan buatan openai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rikoy/gpt.git"
+  },
+  "author": "ricky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikoy/gpt/issues"
+  },
+  "homepage": "https://github.com/rikoy/gpt#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "openai": "^4.32.1"
+  }
+}
